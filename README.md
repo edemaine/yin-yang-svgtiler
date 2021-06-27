@@ -26,6 +26,14 @@ To build the figures,
 clone this repository, and run `make`.
 (Run `make pdf` if you want to build PDF figures.)
 
+## Checking Solutions
+
+[`test.coffee`](test.coffee) checks whether a given ASCII puzzle solution
+satisfies the rules of Yin-Yang: no monochromatic 2&times;2 squares, and
+exactly two connected components (one per color).
+To run these checks on the included puzzle solutions,
+[install CoffeeScript](https://coffeescript.org/) and run `make test`.
+
 ## Puzzles
 
 In case you want to work on a puzzle, we just show the puzzle here.
