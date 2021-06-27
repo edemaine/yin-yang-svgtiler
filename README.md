@@ -4,7 +4,8 @@
 
 Yin-Yang / Shiromaru-Kuromaru (白丸黒丸)
 is an NP-complete pencil-and-paper puzzle dating back to at least 1994.
-See [our paper about it](https://erikdemaine.org/papers/YinYang_CCCG2021/).
+See our paper about it,
+&ldquo;**[Yin-Yang Puzzles are NP-complete</b>](https://erikdemaine.org/papers/YinYang_CCCG2021/)**&rdquo;.
 
 This repository contains the Yin-Yang puzzles and gadgets from that paper,
 in two formats:
